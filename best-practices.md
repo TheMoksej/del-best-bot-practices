@@ -57,7 +57,7 @@ is leveling, automoderation or something else, they should always be `off` and s
 should be able to toggle them `on` or `off`. This is strictly applied to multipurpose bots. They must
 have all the features disabled by default!
 13. **Keep chat as clear as possible**. Do not send multiple embeds or messages with-in 1 command if it's 
-unnecessary. No one likes bots that send 5 embeds within 1 command. This can also lead to people abusing your
+unnecessary. No one likes bots that send 5 embeds within 1 command as it makes chat messy. This can also lead to people abusing your
 bot to spam the chat.
 
 If you have an idea for an addition or change to this document, please make a
