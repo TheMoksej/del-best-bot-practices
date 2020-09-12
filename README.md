@@ -61,7 +61,7 @@ have all the features disabled by default! *Note: this doesn't apply to bots tha
 unnecessary. No one likes bots that send 5 embeds within 1 command as it makes chat messy. This can also lead to people abusing your
 bot to spam the chat.
 
-*feature - leveling system, automoderation (anti-spam, anti-invite, raidmodes), bot responding to custom words (for ex: when you say `hello` bot responds to you `Hi!`
+*feature - leveling system, automoderation (anti-spam, anti-links, anti-raidmode), bot responding to custom words (for ex: when you say `hello` bot responds to you `Hi!`
 
 If you have an idea for an addition or change to this document, please make a
 pull request and we can discuss it.
