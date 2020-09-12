@@ -48,17 +48,20 @@ started. (Make sure that whatever the message is, it's easily found. A great way
 this is by including it in your bot's presence.) The alternative is brute-forcing punctuation
 characters to find it, which will be difficult for bots following 2 and 3. Plus, a mention
 is the most unique prefix of all.
-11. **Do not hardcode logging channels**. Allow people to choose what channel whey want 
+11. **Do not hardcode logging channels**. Allow people to choose what channel they want 
 to have logs in, harcoding isn't an option as people might not like the hardcoded channel 
 name.
 12. **Keep bot features off by default and toggleable**. People should chose themselves if
-they want particular feature enabled or disabled. Doesn't matter if their main purpose
+they want a particular feature* enabled or disabled. Doesn't matter if their main purpose
 is leveling, automoderation or something else, they should always be `off` and server administrators
 should be able to toggle them `on` or `off`. This is strictly applied to multipurpose bots. They must
-have all the features disabled by default!
+have all the features disabled by default! *Note: this doesn't apply to bots that only have 1 feature
+(for example: leveling bot that only has leveling related commands, such as: `rank`, `leaderboard`*
 13. **Keep chat as clear as possible**. Do not send multiple embeds or messages with-in 1 command if it's 
 unnecessary. No one likes bots that send 5 embeds within 1 command as it makes chat messy. This can also lead to people abusing your
 bot to spam the chat.
+
+*feature - leveling system, automoderation (anti-spam, anti-invite, raidmodes), bot responding to custom words (for ex: when you say `hello` bot responds to you `Hi!`
 
 If you have an idea for an addition or change to this document, please make a
 pull request and we can discuss it.
