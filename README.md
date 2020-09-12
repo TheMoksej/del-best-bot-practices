@@ -1,1 +1,0 @@
-# del-best-bot-practices
